@@ -65,5 +65,5 @@ If your solution is especially clear, elegant, or insightful, the maintainer may
 
 ---
 
-Thanks for your interest and support! Let's make learning ML more fun and accessible, one rabbit hole at a time 🐰✨
+Thanks for your interest and support! Let's make learning DL more fun and accessible, one rabbit hole at a time 🐰✨
 
