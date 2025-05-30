@@ -35,7 +35,7 @@ Your contributions will go into:
 2. **Clone** your fork:
    ```bash
    git clone https://github.com/your-username/differentiable-wonderland-solutions.git
-``
+   ```
 
 3. **Create a branch** for your solution:
 
@@ -67,4 +67,3 @@ If your solution is especially clear, elegant, or insightful, the maintainer may
 
 Thanks for your interest and support! Let's make learning ML more fun and accessible, one rabbit hole at a time 🐰✨
 
-```
